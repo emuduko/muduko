@@ -1,0 +1,80 @@
+body{
+  background-color: #e4f9f5;
+  font-family: sans-serif;
+}
+div{
+  height: 200px;
+}
+h1{
+  text-align: center;
+  color: orange;
+  font-display: block;
+}
+p{
+  text-align: center;
+  font-size: 25px;
+}
+.span{
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: italic;
+}
+.photo{
+  width: 400px;
+  height: 200px;
+  background-color:#7777f2 ;
+  position: absolute;
+  margin-left: 820px;
+}
+.photo:hover{
+  color: red;
+}
+.bio{
+  width: 400px;
+  height: 200px;
+  background-color:lightgray;
+  margin-left: 20px;
+}
+.education{
+  width: 400px;
+  height: 200px;
+  background-color: #97a0a8;
+  margin-left: 420px;
+}
+.contact{
+  width: 400px;
+  height: 200px;
+  background-color: #f0d4a0;
+  position: absolute;
+  margin-left: 820px;
+}
+
+.hobbies{
+  width: 400px;
+  height: 200px;
+  background-color: skyblue;
+  margin-left: 20px;
+
+}
+a{
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+}
+.hobbies:hover{
+  background-color: lightgreen;
+}
+.photo:hover{
+  background-color: lightgreen;
+}
+.contact:hover{
+  background-color: lightgreen;
+}
+.education:hover{
+  background-color: lightgreen;
+}
+.bio:hover{
+  background-color: lightgreen;
+}
